@@ -1,0 +1,115 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 600px;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 64px;
+  height: 64px;
+  color: rgb(255, 255, 255) !important;
+  margin: 29px auto 60px 20px;
+  padding: 10px;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+  width: 178%;
+  left: -39%;
+  height: 178%;
+  top: -39%;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .embed-responsive-1 {
+    width: 198%;
+    left: -49%;
+    height: 100%;
+    top: 0%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-icon-1 {
+    margin-top: 79px;
+    margin-left: -11px;
+  }
+
+  .u-section-1 .embed-responsive-1 {
+    width: 314%;
+    left: -107%;
+  }
+} .u-section-2 {
+  background-image: url("images/SUPERFATCAT_POSITIVO_fin.png");
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 470px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 3rem;
+  font-family: "Advent Pro";
+  margin: 58px auto 0 -6px;
+}
+
+.u-section-2 .u-text-2 {
+  font-family: "Advent Pro";
+  margin: 12px 641px 60px -1px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 388px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-right: 479px;
+    margin-left: -8px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 297px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 273px;
+    margin-left: -22px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 428px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 2.6666666666666665rem;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: 11px;
+    margin-right: 261px;
+    margin-left: -21px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 689px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: 16px;
+    margin-left: -7px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin: 8px 148px 59px -8px;
+  }
+}
